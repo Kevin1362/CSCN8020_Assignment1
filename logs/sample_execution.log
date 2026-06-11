@@ -1,0 +1,39 @@
+2026-06-11 14:34:06,035 - INFO - Notebook execution started.
+2026-06-11 14:34:06,100 - INFO - Standard Value Iteration started.
+2026-06-11 14:34:06,102 - INFO - gamma=0.9, theta=1e-06, max_iterations=1000
+2026-06-11 14:34:06,103 - INFO - Standard VI iteration=1 delta=10.00000000
+2026-06-11 14:34:06,105 - INFO - Standard VI iteration=2 delta=9.00000000
+2026-06-11 14:34:06,107 - INFO - Standard VI iteration=3 delta=8.10000000
+2026-06-11 14:34:06,109 - INFO - Standard VI iteration=4 delta=7.29000000
+2026-06-11 14:34:06,111 - INFO - Standard VI iteration=5 delta=6.56100000
+2026-06-11 14:34:06,112 - INFO - Standard VI iteration=6 delta=5.90490000
+2026-06-11 14:34:06,114 - INFO - Standard VI iteration=7 delta=5.31441000
+2026-06-11 14:34:06,115 - INFO - Standard VI iteration=8 delta=4.78296900
+2026-06-11 14:34:06,117 - INFO - Standard VI iteration=9 delta=0.00000000
+2026-06-11 14:34:06,118 - INFO - Standard Value Iteration finished in 0.018608 seconds and 9 iterations.
+2026-06-11 14:34:06,416 - INFO - In-Place Value Iteration started.
+2026-06-11 14:34:06,418 - INFO - gamma=0.9, theta=1e-06, max_iterations=1000
+2026-06-11 14:34:06,422 - INFO - In-Place VI iteration=1 delta=10.00000000
+2026-06-11 14:34:06,423 - INFO - In-Place VI iteration=2 delta=9.00000000
+2026-06-11 14:34:06,425 - INFO - In-Place VI iteration=3 delta=8.10000000
+2026-06-11 14:34:06,426 - INFO - In-Place VI iteration=4 delta=7.29000000
+2026-06-11 14:34:06,428 - INFO - In-Place VI iteration=5 delta=6.56100000
+2026-06-11 14:34:06,433 - INFO - In-Place VI iteration=6 delta=5.90490000
+2026-06-11 14:34:06,434 - INFO - In-Place VI iteration=7 delta=5.31441000
+2026-06-11 14:34:06,437 - INFO - In-Place VI iteration=8 delta=4.78296900
+2026-06-11 14:34:06,439 - INFO - In-Place VI iteration=9 delta=0.00000000
+2026-06-11 14:34:06,440 - INFO - In-Place Value Iteration finished in 0.024261 seconds and 9 iterations.
+2026-06-11 14:34:06,559 - INFO - Off-policy Monte Carlo started.
+2026-06-11 14:34:06,560 - INFO - gamma=0.9, episodes=5000, max_steps=100
+2026-06-11 14:34:06,781 - INFO - MC progress: episode 500/5000
+2026-06-11 14:34:07,011 - INFO - MC progress: episode 1000/5000
+2026-06-11 14:34:07,234 - INFO - MC progress: episode 1500/5000
+2026-06-11 14:34:07,466 - INFO - MC progress: episode 2000/5000
+2026-06-11 14:34:07,696 - INFO - MC progress: episode 2500/5000
+2026-06-11 14:34:07,910 - INFO - MC progress: episode 3000/5000
+2026-06-11 14:34:08,129 - INFO - MC progress: episode 3500/5000
+2026-06-11 14:34:08,493 - INFO - MC progress: episode 4000/5000
+2026-06-11 14:34:08,985 - INFO - MC progress: episode 4500/5000
+2026-06-11 14:34:09,433 - INFO - MC progress: episode 5000/5000
+2026-06-11 14:34:09,435 - INFO - Off-policy Monte Carlo finished in 2.875764 seconds.
+2026-06-11 14:34:09,690 - INFO - Notebook execution finished.

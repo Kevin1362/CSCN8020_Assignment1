@@ -1,0 +1,37 @@
+2026-06-11 18:16:53,963 - INFO - Standard Value Iteration started.
+2026-06-11 18:16:53,963 - INFO - gamma=0.9, theta=1e-06, max_iterations=1000
+2026-06-11 18:16:53,964 - INFO - Standard VI iteration=1 delta=10.00000000
+2026-06-11 18:16:53,964 - INFO - Standard VI iteration=2 delta=9.00000000
+2026-06-11 18:16:53,964 - INFO - Standard VI iteration=3 delta=8.10000000
+2026-06-11 18:16:53,964 - INFO - Standard VI iteration=4 delta=7.29000000
+2026-06-11 18:16:53,965 - INFO - Standard VI iteration=5 delta=6.56100000
+2026-06-11 18:16:53,965 - INFO - Standard VI iteration=6 delta=5.90490000
+2026-06-11 18:16:53,965 - INFO - Standard VI iteration=7 delta=5.31441000
+2026-06-11 18:16:53,965 - INFO - Standard VI iteration=8 delta=4.78296900
+2026-06-11 18:16:53,966 - INFO - Standard VI iteration=9 delta=0.00000000
+2026-06-11 18:16:53,966 - INFO - Standard Value Iteration finished in 0.003108 seconds and 9 iterations.
+2026-06-11 18:16:53,966 - INFO - In-Place Value Iteration started.
+2026-06-11 18:16:53,967 - INFO - gamma=0.9, theta=1e-06, max_iterations=1000
+2026-06-11 18:16:53,967 - INFO - In-Place VI iteration=1 delta=10.00000000
+2026-06-11 18:16:53,967 - INFO - In-Place VI iteration=2 delta=9.00000000
+2026-06-11 18:16:53,968 - INFO - In-Place VI iteration=3 delta=8.10000000
+2026-06-11 18:16:53,968 - INFO - In-Place VI iteration=4 delta=7.29000000
+2026-06-11 18:16:53,968 - INFO - In-Place VI iteration=5 delta=6.56100000
+2026-06-11 18:16:53,969 - INFO - In-Place VI iteration=6 delta=5.90490000
+2026-06-11 18:16:53,969 - INFO - In-Place VI iteration=7 delta=5.31441000
+2026-06-11 18:16:53,969 - INFO - In-Place VI iteration=8 delta=4.78296900
+2026-06-11 18:16:53,969 - INFO - In-Place VI iteration=9 delta=0.00000000
+2026-06-11 18:16:53,969 - INFO - In-Place Value Iteration finished in 0.003130 seconds and 9 iterations.
+2026-06-11 18:16:53,970 - INFO - Off-policy Monte Carlo started.
+2026-06-11 18:16:53,970 - INFO - gamma=0.9, episodes=10, max_steps=100
+2026-06-11 18:16:53,972 - INFO - MC progress: episode 1/10
+2026-06-11 18:16:53,974 - INFO - MC progress: episode 2/10
+2026-06-11 18:16:53,975 - INFO - MC progress: episode 3/10
+2026-06-11 18:16:53,976 - INFO - MC progress: episode 4/10
+2026-06-11 18:16:53,977 - INFO - MC progress: episode 5/10
+2026-06-11 18:16:53,979 - INFO - MC progress: episode 6/10
+2026-06-11 18:16:53,981 - INFO - MC progress: episode 7/10
+2026-06-11 18:16:53,982 - INFO - MC progress: episode 8/10
+2026-06-11 18:16:53,984 - INFO - MC progress: episode 9/10
+2026-06-11 18:16:53,986 - INFO - MC progress: episode 10/10
+2026-06-11 18:16:53,986 - INFO - Off-policy Monte Carlo finished in 0.015729 seconds.
